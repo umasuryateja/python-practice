@@ -80,7 +80,4 @@ print('A7B9') # print the value ‘A7B9’
 #print(0XBEER) # error hexagonal allows alphabets upto F only (A-F) here R is invalid
 #print(0XHYD) # error hexagonal allows alphabets upto F only (A-F) here Hand Y is invalid
 #print(0xA7G9B) # error hexagonal allows alphabets upto F only (A-F) here G is invalid
-# Find outputs (Home work)
-a = 9248
-print(a) # print the value of object ‘a’ i.e. 9248
-print(type(a)) # print the type of object ‘a’ i.e. <class ‘int’>
+
