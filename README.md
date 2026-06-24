@@ -84,7 +84,6 @@ This repository is maintained for:
 
 ## 📌 Future Improvements
 
-- Add advanced DSA problems
 - Add Python projects
 - Add automation scripts
 - Add API integration examples
