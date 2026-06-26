@@ -12,7 +12,7 @@ print(eval('(10 , 20 , 30)'))#tuple(10,20,30)
 print(eval("{10 : 'Hyd' , 10 : 'Sec'}"))#dict {10: 'Sec'}
 #print(eval(4 + 5))# error
  #  Tricky  program
-# Find  outputs  (Home  work)
+# Find  outputs  
 print(eval("    'hyd'   ")) # hyd
 hyd = 'Sec'
 print(eval('hyd'))#Sec
