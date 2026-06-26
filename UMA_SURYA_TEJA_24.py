@@ -109,7 +109,7 @@ print('%s' %a) # [10, 20, 30, 40]
 print('%s' , a) # ('%s', [10, 20, 30, 40])
 #print('%s' a) # SyntaxError: invalid syntax
 #print('%s' , %a) # SyntaxError: invalid syntax
-#print('%l' %a) # ValueError: unsupported format character 'l'
+#print('%l' %a) # ValueError: unsupported format character 'l'.
 print(a) # [10, 20, 30, 40]
 
 a = 25
