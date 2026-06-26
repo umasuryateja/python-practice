@@ -1,0 +1,10 @@
+class Solution: 
+    def mySqrt(self, x: int) -> int:
+        n=1
+        while(n*n <= x):
+            n=n+1
+        else:
+            return n-1
+        
+
+        
