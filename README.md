@@ -21,7 +21,7 @@ The main goal of this repository is to improve:
 - Problem-solving ability
 - Coding consistency
 - Technical interview preparation
-- Logical thinking
+- Logical thinking.
 
 
 
