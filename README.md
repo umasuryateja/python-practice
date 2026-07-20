@@ -2,7 +2,6 @@
 
 A collection of Python practice programs, coding exercises, and problem-solving implementations created to strengthen programming fundamentals, logical thinking, and technical interview preparation.
 
----
 
 ## 🚀 About This Repository
 
