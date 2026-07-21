@@ -13,7 +13,7 @@ This repository contains:
 - File handling and exception handling
 - Pattern programs
 - Interview coding questions
-- Beginner-friendly Python implementations
+- Beginner-friendly Python implementations.
 
 The main goal of this repository is to improve:
 - Python programming skills
